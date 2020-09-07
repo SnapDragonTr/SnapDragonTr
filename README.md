@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SnapDragonTr" alt="SnapDragonTr" /> </p>
 
-## Merhaba, Ben SnapDragon 
+## Merhaba, Ben SnapDragon Burası Benim Github Hesabım
 
 🔭 2017'den Beri Web Yazılımı Ve Bilgisayar Yazılımı İle Uğraşıyorum
 <br>
@@ -10,14 +10,16 @@
 <br>
 🌱 2016'Dan İtibaren FL Studioda Profesyonel Müzizyen Oldum 1000 Aboneli Müzik Kanalım Kapanınca 2017'De Yazılıma Başladım :)
 <br>
-🌱 2014'De Skype Kullanmaya Başladım , 2016'da Discord Çıkınca Discorda Geçiş Yaptım Ve Müzik İşine Başlamaya Karar Verdim , Verdiğim  Gibi O Kararda İlerde Kanalımın Kapanmasıyla Son Buldu.
+🌱 2014'De Skype Kullanmaya Başladım , 2016'da Discord Çıkınca Discorda Geçiş Yaptım Ve Müzik İşine Başlamaya Karar Verdim , Verdiğim  Gibi O Kararda İlerde Kanalımın Kapanmasıyla Son Buldu.Sonradan Discordda Dcw Olarak Bilinen Grup İle Tanıştım Ve Yazılımın ilk Adımlarını Attım.
 <br>
 👯 Başka Yazılımcılar İle Projeler Yapmayı İsterim.
 <br>
 🥅 Birçok Proje Paylaşırım.
 <br>
 ⚡ Söz : Zulüm Azrail Olsada Hep Hakkı Tutacağım , Mukaddes Davalarda Ölüm Bile Güzeldir.- Şehit Muhsin Yazıcıoğlu
-
+<br>
+🚀 Benimle İletişime Geçmek İçin [Youtube Kanalım](https://www.youtube.com/channel/UCKthnD_spgy1yISyHmnK4Tg?view_as=subscriber)
+<br>
 - 📝 Website [https://dragonistatistikbot.xyz/](https://dragonistatistikbot.xyz/)
 
 ### 📕 Top 5 Post
@@ -35,3 +37,4 @@
 <a href="https://www.youtube.com/channel/UCKthnD_spgy1yISyHmnK4Tg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc9j9jka9i3km_edttcppebq" height="30" width="30" /></a>
 </p>
 
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">
