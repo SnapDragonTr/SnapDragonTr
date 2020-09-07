@@ -4,21 +4,21 @@
 
 ## Merhaba, Ben SnapDragon Burası Benim Github Hesabım
 
-🔭 2017'den Beri Web Yazılımı Ve Bilgisayar Yazılımı İle Uğraşıyorum
+- 🔭 2017'den Beri Web Yazılımı Ve Bilgisayar Yazılımı İle Uğraşıyorum
 <br>
-🔭 Photoshop | FL Studio | Bilgisayar Configrasyonu Ve Donanımı | Web Yazılımı İle Uğraşıyorum
+- 🔭 Photoshop | FL Studio | Bilgisayar Configrasyonu Ve Donanımı | Web Yazılımı İle Uğraşıyorum
 <br>
-🌱 2016'Dan İtibaren FL Studioda Profesyonel Müzizyen Oldum 1000 Aboneli Müzik Kanalım Kapanınca 2017'De Yazılıma Başladım :)
+- 🌱 2016'Dan İtibaren FL Studioda Profesyonel Müzizyen Oldum 1000 Aboneli Müzik Kanalım Kapanınca 2017'De Yazılıma Başladım :)
 <br>
-🌱 2014'De Skype Kullanmaya Başladım , 2016'da Discord Çıkınca Discorda Geçiş Yaptım Ve Müzik İşine Başlamaya Karar Verdim , Verdiğim  Gibi O Kararda İlerde Kanalımın Kapanmasıyla Son Buldu.Sonradan Discordda Dcw Olarak Bilinen Grup İle Tanıştım Ve Yazılımın ilk Adımlarını Attım.
+- 🌱 2014'De Skype Kullanmaya Başladım , 2016'da Discord Çıkınca Discorda Geçiş Yaptım Ve Müzik İşine Başlamaya Karar Verdim , Verdiğim  Gibi O Kararda İlerde Kanalımın Kapanmasıyla Son Buldu.Sonradan Discordda Dcw Olarak Bilinen Grup İle Tanıştım Ve Yazılımın ilk Adımlarını Attım.
 <br>
-👯 Başka Yazılımcılar İle Projeler Yapmayı İsterim.
+- 👯 Başka Yazılımcılar İle Projeler Yapmayı İsterim.
 <br>
-🥅 Birçok Proje Paylaşırım.
+- 🥅 Birçok Proje Paylaşırım.
 <br>
-⚡ Söz : Zulüm Azrail Olsada Hep Hakkı Tutacağım , Mukaddes Davalarda Ölüm Bile Güzeldir.- Şehit Muhsin Yazıcıoğlu
+- ⚡ Söz : Zulüm Azrail Olsada Hep Hakkı Tutacağım , Mukaddes Davalarda Ölüm Bile Güzeldir.- Şehit Muhsin Yazıcıoğlu
 <br>
-🚀 Benimle İletişime Geçmek İçin [Youtube Kanalım](https://www.youtube.com/channel/UCKthnD_spgy1yISyHmnK4Tg?view_as=subscriber)
+- 🚀 Benimle İletişime Geçmek İçin [Youtube Kanalım](https://www.youtube.com/channel/UCKthnD_spgy1yISyHmnK4Tg?view_as=subscriber)
 <br>
 - 📝 Website [https://dragonistatistikbot.xyz/](https://dragonistatistikbot.xyz/)
 
