@@ -22,9 +22,12 @@
 <br>
 - 📝 Website [https://dragonistatistikbot.xyz/](https://dragonistatistikbot.xyz/)
 
+<hr>
+
 ### 📕 Top 5 Post
 -Yakında...
 
+<hr>
 
 ### 👌 Bildiğim Diller
 
