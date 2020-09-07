@@ -6,7 +6,7 @@
 
 - 🔭 2017'den Beri Web Yazılımı Ve Bilgisayar Yazılımı İle Uğraşıyorum
 <br>
-- 🔭 Photoshop | FL Studio | Bilgisayar Configrasyonu Ve Donanımı | Web Yazılımı İle Uğraşıyorum
+-🔭 Photoshop | FL Studio | Bilgisayar Configrasyonu Ve Donanımı | Web Yazılımı İle Uğraşıyorum
 <br>
 - 🌱 2016'Dan İtibaren FL Studioda Profesyonel Müzizyen Oldum 1000 Aboneli Müzik Kanalım Kapanınca 2017'De Yazılıma Başladım :)
 <br>
