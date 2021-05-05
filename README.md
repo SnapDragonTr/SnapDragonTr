@@ -20,8 +20,6 @@
 <br>
 🚀 Benimle İletişime Geçmek İçin [Youtube Kanalım](https://www.youtube.com/channel/UCKthnD_spgy1yISyHmnK4Tg?view_as=subscriber)
 <br>
-📝 Website [https://snapdragontr.github.io](https://snapdragontr.github.io/)
-
 <hr>
 
 ### 📕 Top 5 Post
